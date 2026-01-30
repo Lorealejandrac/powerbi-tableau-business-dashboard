@@ -90,8 +90,7 @@ La tabla calendario se utiliza para garantizar cálculos temporales correctos (v
   - Ticket promedio
   - % de participación
   - Distribución por categoría
-
-  ![Overview](images/power-bi-analisis-tienda.png)
+![Overview](images/power-bi-analisis-tienda.png)
 ---
 
 ## 🧠 Medidas DAX Destacadas
