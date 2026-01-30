@@ -21,10 +21,8 @@ El dashboard permite monitorear el desempeño del negocio e identificar oportuni
 ## Vistas del dashboard
 
 ### Vista general
-![Overview](images/overview.png)
+![Overview](images/power-bi-desempeno-comercial.png)
 
-### KPIs principales
-![KPIs](images/kpis.png)
+### KPIs tiendas
+![KPIs](images/power-bi-analisis-tiendas.png)
 
-### Detalle
-![Detail](images/detail.png)
