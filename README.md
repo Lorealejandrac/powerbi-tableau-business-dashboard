@@ -1,2 +1,29 @@
-# powerbi-tableau-business-dashboard
-Business dashboard built with Power BI and Tableau
+# PowerBI-business-dashboard
+# Dashboard de Análisis de Negocio – Power BI
+
+## Objetivo
+Visualizar indicadores clave para apoyar la toma de decisiones gerenciales.
+
+## Herramienta
+- Power BI
+
+## KPIs principales
+- Ventas totales
+- Variación porcentual
+- Distribución por categoría
+- Tendencias temporales
+
+## Vistas del dashboard
+(Ver imágenes a continuación)
+
+## Impacto
+El dashboard permite monitorear el desempeño del negocio e identificar oportunidades de mejora.
+## Vistas del dashboard
+
+### Vista general
+![Overview](images/power-bi-desempeno-comercial.png)
+
+### KPIs por Tienda
+![KPIs](images/analisis-tienda.png)
+
+
