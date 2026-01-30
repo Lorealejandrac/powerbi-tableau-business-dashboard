@@ -17,3 +17,14 @@ Visualizar indicadores clave para apoyar la toma de decisiones gerenciales.
 
 ## Impacto
 El dashboard permite monitorear el desempeño del negocio e identificar oportunidades de mejora.
+
+## Vistas del dashboard
+
+### Vista general
+![Overview](images/overview.png)
+
+### KPIs principales
+![KPIs](images/kpis.png)
+
+### Detalle
+![Detail](images/detail.png)
