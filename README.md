@@ -24,6 +24,6 @@ El dashboard permite monitorear el desempeño del negocio e identificar oportuni
 ![Overview](images/power-bi-desempeno-comercial.png)
 
 ### KPIs por Tienda
-![KPIs](images/analisis-tienda.png)
+![Overview](images/analisis-tienda.png)
 
 
